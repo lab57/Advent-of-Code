@@ -1,4 +1,5 @@
 import re
+import pytest
 """
 Advent of Code 2022 - Utility functions
 
@@ -26,8 +27,5 @@ def getLetters(string):
 
 
 
-if __name__ == "__main__":
-    print("Testing utilities")
-    test1 = "234 sdflj 39j [21] 321 [A] [21]"
-    print(f"Numbers: {getNumbers(test1)}")
-    print(f"Letters: {getLetters(test1)}")
+
+
