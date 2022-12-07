@@ -1,2 +1,1 @@
-
-print(input)
+e
