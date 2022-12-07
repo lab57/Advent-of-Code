@@ -1,5 +1,6 @@
 import re
 import pytest
+import numpy as np
 """
 Advent of Code 2022 - Utility functions
 
